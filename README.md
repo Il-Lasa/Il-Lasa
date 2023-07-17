@@ -1,7 +1,7 @@
 # 👾 Marco Lasagna
 
 **`Informatica per la comunicazione digitale (Università degli studi di Milano)`**
-
+Currently working on my Bachelor's thesis: Un sistema per l'estrazione automatica e semantica di dati tabellari da documenti testuali (A system for automatic and semantic extraction of tabular data from textual documents)
 ---
 
 ### 🧰 Languages and Tools
