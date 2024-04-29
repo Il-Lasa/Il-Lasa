@@ -1,8 +1,8 @@
 # 👾 Marco Lasagna
 
-**`Informatica per la comunicazione digitale (Università degli studi di Milano)`**
+**`Intelligenza Artificiale e Innovazione Digitale (Università del Piemonte Orientale)`**
 
-<p>Currently working on my Bachelor's thesis: Un sistema per l'estrazione automatica e semantica di dati tabellari da documenti testuali (A system for automatic and semantic extraction of tabular data from textual documents)</p>
+<p>Graduated @ Università degli Studi di Milano in "Informatica per la comunicazione digitale"</p>
 
 ---
 
